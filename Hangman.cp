@@ -93,6 +93,8 @@ int main() {
     game.displayResult();
 
     cout << "Thanks for playing 40K Hangman!" << endl;
+    cout << "Thanks for playing 40K Hangman!" << endl;
+    cout << "Thanks for playing 40K Hangman!" << endl;
 
     return 0;
 }
